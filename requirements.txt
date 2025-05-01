@@ -1,0 +1,5 @@
+matplotlib
+pycairo
+PyGObject
+#opencv-python-headless
+#font-v
